@@ -1,3 +1,3 @@
-def parrot(string="Squak!")
+def parrot(string="Squawk!")
   puts "#{string}"
 end
